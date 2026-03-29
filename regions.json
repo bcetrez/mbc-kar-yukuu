@@ -1,0 +1,926 @@
+{
+  "ADANA": {
+    "region": "I",
+    "districts": {
+      "Bahçe": "III",
+      "Ceyhan": "I",
+      "Düziçi": "III",
+      "Feke": "III",
+      "Kadirli": "III",
+      "Karaisalı": "III",
+      "Karataş": "I",
+      "Kozan": "III",
+      "Mağara": "III",
+      "Osmaniye": "III",
+      "Pozantı": "II",
+      "Saimbeyli": "III",
+      "Yumurtalık": "I"
+    }
+  },
+  "ADAPAZARI": {
+    "region": "III",
+    "districts": {
+      "Akyazı": "III",
+      "Geyve": "III",
+      "Hendek": "III",
+      "Karasu": "III",
+      "Pamukova": "III",
+      "Sapanca": "III"
+    }
+  },
+  "ADIYAMAN": {
+    "region": "II",
+    "districts": {
+      "Besni": "IV",
+      "Çelikhan": "III",
+      "Gerger": "III",
+      "Gölbaşı": "IV",
+      "Rahtaağ": "II",
+      "Samsat": "II"
+    }
+  },
+  "AFYON": {
+    "region": "III",
+    "districts": {
+      "Bolvadin": "III",
+      "Çay": "II",
+      "Dazkırı": "II",
+      "Dinar": "II",
+      "Emirdağ": "III",
+      "İhsaniye": "III",
+      "Sandıklı": "II",
+      "Sincanlı": "II",
+      "Şuhut": "II",
+      "Sultandağı": "II"
+    }
+  },
+  "AĞRI": {
+    "region": "IV",
+    "districts": {
+      "Diyadin": "II",
+      "Doğubeyazıt": "II",
+      "Eleşkirt": "IV",
+      "Hamur": "IV",
+      "Patnos": "IV",
+      "Taşlıçay": "IV",
+      "Tutak": "IV"
+    }
+  },
+  "AMASYA": {
+    "region": "III",
+    "districts": {
+      "Göynüçek": "II",
+      "Gümüşhacıköy": "II",
+      "Merzifon": "II",
+      "Sulovaarı": "II",
+      "Taşova": "III"
+    }
+  },
+  "ANKARA": {
+    "region": "II",
+    "districts": {
+      "Altındağ": "I",
+      "Ayaş": "III",
+      "Bala": "I",
+      "Beypazarı": "IV",
+      "Çamlıdere": "III",
+      "Çankaya": "II",
+      "Çubuk": "III",
+      "Delice": "II",
+      "Elmadağı": "IV",
+      "Etimesgut": "I",
+      "Güdül": "III",
+      "Haymana": "II",
+      "Kalecik": "III",
+      "Keskin": "I",
+      "Kırıkkale": "II",
+      "Kızılcahamam": "III",
+      "Nallıhan": "II",
+      "Polatlı": "II",
+      "Yenimahalle": "I"
+    }
+  },
+  "ANTALYA": {
+    "region": "I",
+    "districts": {
+      "Akseki": "III",
+      "Alanya": "I",
+      "Elmalı": "III",
+      "Finike": "I",
+      "Gazipaşa": "I",
+      "Gündoğmuş": "III",
+      "İbradi": "III",
+      "Kaş": "I",
+      "Korkuteli": "III",
+      "Kumluca": "I",
+      "Manavgat": "I",
+      "Serik": "I"
+    }
+  },
+  "ANTAKYA": {
+    "region": "I",
+    "districts": {
+      "Altınözü": "I",
+      "Arsuz": "I",
+      "Belen": "I",
+      "Dörtyol": "I",
+      "Erzin": "III",
+      "Hassa": "III",
+      "İskenderun": "I",
+      "Kırıkhan": "I",
+      "Reyhanlı": "I",
+      "Samandağı": "I",
+      "Yayladağı": "I"
+    }
+  },
+  "ARTVİN": {
+    "region": "IV",
+    "districts": {
+      "Ardanuç": "III",
+      "Arhavi": "IV",
+      "Borçka": "IV",
+      "Hopa": "IV",
+      "Sarp": "IV",
+      "Şavşat": "IV",
+      "Yusufeli": "III"
+    }
+  },
+  "AYDIN": {
+    "region": "I",
+    "districts": {
+      "Bozdoğan": "I",
+      "Çine": "I",
+      "Germencik": "I",
+      "Karacasu": "II",
+      "Koçarlı": "I",
+      "Kuşadası": "I",
+      "Kuyucak": "I",
+      "Nazilli": "I",
+      "Söke": "I",
+      "Sultanhisar": "I",
+      "Yenipazar": "I"
+    }
+  },
+  "BALIKESİR": {
+    "region": "I",
+    "districts": {
+      "Ayvalık": "I",
+      "Balya": "I",
+      "Bandırma": "I",
+      "Bigadiç": "I",
+      "Burhaniye": "I",
+      "Dursunbey": "III",
+      "Edremit": "I",
+      "Erdek": "I",
+      "Gönen": "I",
+      "Havran": "I",
+      "İvrindi": "I",
+      "Kepsun": "III",
+      "Manyas": "I",
+      "Savaştepe": "I",
+      "Sındırgı": "III",
+      "Susurluk": "III"
+    }
+  },
+  "BİLECİK": {
+    "region": "III",
+    "districts": {
+      "Bozüyük": "III",
+      "Gölpazarı": "III",
+      "Osmaneli": "III",
+      "Pazaryeri": "III",
+      "Söğüt": "III"
+    }
+  },
+  "BİNGÖL": {
+    "region": "IV",
+    "districts": {
+      "Genç": "II",
+      "Karlıova": "IV",
+      "Kiğı": "IV",
+      "Solhan": "IV"
+    }
+  },
+  "BİTLİS": {
+    "region": "IV",
+    "districts": {
+      "Adilcevaz": "IV",
+      "Ahlat": "IV",
+      "Hizan": "IV",
+      "Kotum": "IV",
+      "Mutki": "II",
+      "Tatvan": "IV"
+    }
+  },
+  "BOLU": {
+    "region": "III",
+    "districts": {
+      "Akçakoca": "III",
+      "Düzce": "III",
+      "Gerede": "IV",
+      "Göynük": "III",
+      "Kıbrısçık": "IV",
+      "Mengen": "IV",
+      "Mudurnu": "III",
+      "Seben": "IV",
+      "Yığılca": "III"
+    }
+  },
+  "BURDUR": {
+    "region": "II",
+    "districts": {
+      "Ağlasun": "II",
+      "Bucak": "II",
+      "Gölhisar": "II",
+      "Tefenni": "II",
+      "Yeşilova": "II"
+    }
+  },
+  "BURSA": {
+    "region": "IV",
+    "districts": {
+      "Armutlu": "III",
+      "Gemlik": "III",
+      "İnegöl": "IV",
+      "İznik": "III",
+      "Karacabey": "III",
+      "Keles": "IV",
+      "Mudanya": "III",
+      "M.Kemalpaşa": "III",
+      "Orhaneli": "IV",
+      "Orhangazi": "III",
+      "Yalova": "III",
+      "Yenişehir": "III"
+    }
+  },
+  "ÇANAKKALE": {
+    "region": "I",
+    "districts": {
+      "Ayvacık": "I",
+      "Bayramiç": "I",
+      "Biga": "III",
+      "Çan": "I",
+      "Eceabat": "III",
+      "Ezine": "I",
+      "Gelibolu": "III",
+      "Lapseki": "III",
+      "Yenice": "I"
+    }
+  },
+  "ÇANKIRI": {
+    "region": "III",
+    "districts": {
+      "Çerkeş": "III",
+      "Eldivan": "III",
+      "Eskipazar": "IV",
+      "Ilgaz": "III",
+      "Kurşunlu": "III",
+      "Orta": "III",
+      "Ovacık": "IV",
+      "Şabanözü": "III",
+      "Yapraklı": "III"
+    }
+  },
+  "ÇORUM": {
+    "region": "II",
+    "districts": {
+      "Alaca": "II",
+      "Bayat": "II",
+      "İskilip": "II",
+      "Kargı": "II",
+      "Mecitözü": "II",
+      "Ortaköy": "II",
+      "Osmancık": "II",
+      "Sungurlu": "II"
+    }
+  },
+  "DENİZLİ": {
+    "region": "II",
+    "districts": {
+      "Acıpayam": "II",
+      "Babadağ": "II",
+      "Buldan": "II",
+      "Çal": "II",
+      "Çameli": "II",
+      "Çardak": "II",
+      "Çivril": "II",
+      "Güney": "II",
+      "Kale": "II",
+      "Sarayköy": "II",
+      "Tavas": "II"
+    }
+  },
+  "DİYARBAKIR": {
+    "region": "II",
+    "districts": {
+      "Bismil": "II",
+      "Çermik": "III",
+      "Çınar": "II",
+      "Çüngüş": "III",
+      "Dicle": "III",
+      "Eğil": "III",
+      "Ergani": "III",
+      "Hani": "II",
+      "Hazro": "II",
+      "Kulp": "II",
+      "Lice": "II",
+      "Silvan": "II"
+    }
+  },
+  "EDİRNE": {
+    "region": "III",
+    "districts": {
+      "Enez": "III",
+      "Havşa": "III",
+      "İpsala": "III",
+      "Keşan": "III",
+      "Lalapaşa": "III",
+      "Meriç": "III",
+      "Uzunköprü": "III"
+    }
+  },
+  "ELAZIĞ": {
+    "region": "III",
+    "districts": {
+      "Ağın": "IV",
+      "Başkil": "III",
+      "Karakoçan": "III",
+      "Keban": "IV",
+      "Maden": "III",
+      "Palu": "III",
+      "Sivrice": "III"
+    }
+  },
+  "ERZİNCAN": {
+    "region": "III",
+    "districts": {
+      "Çayırlı": "III",
+      "Ilıç": "III",
+      "Kemah": "III",
+      "Kemaliye": "IV",
+      "Refahiye": "III",
+      "Tercan": "III"
+    }
+  },
+  "ERZURUM": {
+    "region": "III",
+    "districts": {
+      "Aşkale": "III",
+      "Çat": "III",
+      "İspir": "III",
+      "Hınıs": "IV",
+      "Horosan": "III",
+      "Karayazı": "IV",
+      "Narman": "III",
+      "Olur": "III",
+      "Oltu": "III",
+      "Pasinler": "III",
+      "Şenkaya": "III",
+      "Tekman": "III",
+      "Tortum": "III"
+    }
+  },
+  "ESKİŞEHİR": {
+    "region": "II",
+    "districts": {
+      "Çifteler": "II",
+      "Mahmudiye": "II",
+      "Mihalıççık": "II",
+      "Sarıkaya": "II",
+      "Seyitgazi": "II",
+      "Sivrihisar": "II"
+    }
+  },
+  "GAZİANTEP": {
+    "region": "III",
+    "districts": {
+      "Araban": "IV",
+      "Barak": "III",
+      "Çobanbeyi": "II",
+      "Fevzipaşa": "III",
+      "İslahiye": "III",
+      "Kilis": "II",
+      "Nizip": "III",
+      "Oğuzeli": "III",
+      "Yavuzeli": "III"
+    }
+  },
+  "GİRESUN": {
+    "region": "IV",
+    "districts": {
+      "Alucra": "IV",
+      "Bulancak": "III",
+      "Dereli": "IV",
+      "Esbiye": "IV",
+      "Eynesil": "IV",
+      "Görele": "IV",
+      "Keşap": "IV",
+      "Şebinkarahisar": "IV",
+      "Tirebolu": "IV"
+    }
+  },
+  "GÜMÜŞHANE": {
+    "region": "III",
+    "districts": {
+      "Bayburt": "III",
+      "Kelkit": "III",
+      "Şiran": "III",
+      "Torul": "IV"
+    }
+  },
+  "HAKKARİ": {
+    "region": "IV",
+    "districts": {
+      "Beytüşşebap": "IV",
+      "Bacirge": "IV",
+      "Çukurca": "IV",
+      "Şenmdinli": "IV",
+      "Uludere": "IV",
+      "Yüksekova": "IV"
+    }
+  },
+  "ISPARTA": {
+    "region": "II",
+    "districts": {
+      "Atabey": "II",
+      "Eğridir": "II",
+      "Gelendost": "II",
+      "Keçiborlu": "II",
+      "Senirkent": "II",
+      "Sütçüler": "II",
+      "Şarkikaraağaç": "III",
+      "Uluborlu": "II",
+      "Yalvaç": "II"
+    }
+  },
+  "İSTANBUL": {
+    "region": "II",
+    "districts": {
+      "Bakırköy": "II",
+      "Beşiktaş": "II",
+      "Beykoz": "II",
+      "Beyoğlu": "II",
+      "Çatalca": "II",
+      "Eminönü": "II",
+      "Eyüp": "II",
+      "Gaziosmanpaşa": "II",
+      "Kadıöy": "II",
+      "Kartal": "II",
+      "Sarıyer": "II",
+      "Silivri": "II",
+      "Şile": "II",
+      "Şişli": "II",
+      "Üsküdar": "II",
+      "Yalova": "II",
+      "Zeytinburnu": "II"
+    }
+  },
+  "İZMİR": {
+    "region": "I",
+    "districts": {
+      "Aliağa": "I",
+      "Bayındır": "I",
+      "Bergama": "I",
+      "Bornova": "I",
+      "Buca": "I",
+      "Çeşme": "I",
+      "Dikili": "I",
+      "Foça": "I",
+      "Karaburun": "I",
+      "Karşıyaka": "I",
+      "Kemalpaşa": "I",
+      "Kınık": "I",
+      "Kozak": "I",
+      "Menemen": "I",
+      "Ödemiş": "I",
+      "Seferhisar": "I",
+      "Selçuk": "I",
+      "Tire": "I",
+      "Torbalı": "I",
+      "Urla": "I"
+    }
+  },
+  "İZMİT": {
+    "region": "II",
+    "districts": {
+      "Gebze": "II",
+      "Gölcük": "II",
+      "Hereke": "II",
+      "Kandıra": "III",
+      "Karamürsel": "II",
+      "Kaynarca": "III"
+    }
+  },
+  "KARS": {
+    "region": "IV",
+    "districts": {
+      "Aralık": "II",
+      "Ardahan": "IV",
+      "Arpaçay": "IV",
+      "Çıldır": "IV",
+      "Digar": "IV",
+      "Göle": "IV",
+      "Hanak": "IV",
+      "Iğdır": "II",
+      "Kağızman": "II",
+      "Posof": "IV",
+      "Sarıkamış": "IV",
+      "Selim": "IV",
+      "Susuz": "IV",
+      "Tuzluca": "II"
+    }
+  },
+  "KASTAMONU": {
+    "region": "III",
+    "districts": {
+      "Abana": "III",
+      "Araç": "III",
+      "Azdavay": "III",
+      "Bozkurt": "III",
+      "Çatalzeytin": "III",
+      "Cide": "III",
+      "Daday": "III",
+      "Devrekani": "III",
+      "İnebolu": "III",
+      "Taşköprü": "III",
+      "Tosya": "III"
+    }
+  },
+  "KAYSERİ": {
+    "region": "I",
+    "districts": {
+      "Bünyan": "I",
+      "Develi": "III",
+      "Felahiye": "I",
+      "Hacılar": "III",
+      "İncesu": "I",
+      "Pınarbaşı": "III",
+      "Sarıoğlan": "III",
+      "Sarız": "III",
+      "Talas": "III",
+      "Tomarza": "III",
+      "Viranşehir": "III",
+      "Yahyalı": "III",
+      "Yeşilhisar": "III"
+    }
+  },
+  "KIRKLARELİ": {
+    "region": "II",
+    "districts": {
+      "Babaeski": "II",
+      "Demirköy": "III",
+      "Kofcaz": "III",
+      "Lüleburgaz": "II",
+      "Midye": "II",
+      "Pehlivanköy": "II",
+      "Pınarhisar": "III"
+    }
+  },
+  "KIRŞEHİR": {
+    "region": "I",
+    "districts": {
+      "Çiçekdağı": "I",
+      "Kaman": "I",
+      "Kozaklı": "III",
+      "Mucur": "I"
+    }
+  },
+  "KONYA": {
+    "region": "II",
+    "districts": {
+      "Akşehir": "II",
+      "Beyşehir": "II",
+      "Bozkır": "II",
+      "Cihanbeyli": "I",
+      "Çumra": "II",
+      "Doğanhisar": "II",
+      "Ereğli": "II",
+      "Ermenek": "II",
+      "Hadım": "II",
+      "Ilgın": "II",
+      "Kadınhanı": "II",
+      "Karaman": "II",
+      "Karapınar": "I",
+      "Kulu": "I",
+      "Sarayönü": "II",
+      "Seydişehir": "II",
+      "Yunak": "II",
+      "Zıvarık": "I"
+    }
+  },
+  "KÜTAHYA": {
+    "region": "III",
+    "districts": {
+      "Altıntaş": "II",
+      "Dağardı": "III",
+      "Domaniç": "III",
+      "Dumlupınar": "II",
+      "Emet": "III",
+      "Gediz": "III",
+      "Simav": "III",
+      "Tavşanlı": "III"
+    }
+  },
+  "MALATYA": {
+    "region": "III",
+    "districts": {
+      "Ağın": "IV",
+      "Akçadağ": "III",
+      "Arapkir": "IV",
+      "Arguvan": "IV",
+      "Darende": "III",
+      "Doğanşehir": "III",
+      "Hekimhan": "III",
+      "Pötürge": "III",
+      "Yeşilyurt": "III"
+    }
+  },
+  "MANİSA": {
+    "region": "I",
+    "districts": {
+      "Akhisar": "I",
+      "Alaşehir": "I",
+      "Demirci": "III",
+      "Gölmarmara": "I",
+      "Gördes": "III",
+      "Kırkağaç": "I",
+      "Kula": "II",
+      "Salihli": "I",
+      "Sarıgöl": "II",
+      "Saruhanlı": "I",
+      "Selendi": "II",
+      "Soma": "I",
+      "Turgutlu": "I"
+    }
+  },
+  "KAHRAMANMARAŞ": {
+    "region": "III",
+    "districts": {
+      "Afşin": "III",
+      "Andirin": "III",
+      "Elbistan": "III",
+      "Göksun": "III",
+      "Pazarcık": "III",
+      "Türkoğlu": "III"
+    }
+  },
+  "MARDİN": {
+    "region": "II",
+    "districts": {
+      "Cizre": "I",
+      "Derbesiye": "I",
+      "Derik": "I",
+      "Gercüş": "II",
+      "Hasankeyf": "II",
+      "İdil": "I",
+      "Kızıltepe": "I",
+      "Mazıdağı": "I",
+      "Midyat": "IV",
+      "Nusaybin": "I",
+      "Ömerli": "IV",
+      "Savur": "II",
+      "Silopi": "I"
+    }
+  },
+  "MUĞLA": {
+    "region": "I",
+    "districts": {
+      "Bodrum": "I",
+      "Dalaman": "I",
+      "Datça": "I",
+      "Fethiye": "I",
+      "Güllük": "I",
+      "Köyçeyiz": "I",
+      "Marmaris": "I",
+      "Milas": "I",
+      "Ula": "I",
+      "Yatağan": "I"
+    }
+  },
+  "MUŞ": {
+    "region": "III",
+    "districts": {
+      "Bulanık": "IV",
+      "Malazgirt": "IV",
+      "Varto": "IV"
+    }
+  },
+  "NEVŞEHİR": {
+    "region": "I",
+    "districts": {
+      "Avanos": "I",
+      "Derinkuyu": "I",
+      "Gülşehir": "I",
+      "Hacıbektaş": "I",
+      "Ürgüp": "I"
+    }
+  },
+  "NİĞDE": {
+    "region": "II",
+    "districts": {
+      "Aksaray": "I",
+      "Bor": "II",
+      "Çamardı": "II",
+      "Ulukışla": "II"
+    }
+  },
+  "ORDU": {
+    "region": "III",
+    "districts": {
+      "Akkuş": "III",
+      "Aybastı": "III",
+      "Fatsa": "III",
+      "Gölköy": "III",
+      "Korgan": "III",
+      "Kumru": "III",
+      "Mesudiye": "III",
+      "Perşembe": "III",
+      "Ulubey": "III",
+      "Ünye": "III"
+    }
+  },
+  "RİZE": {
+    "region": "IV",
+    "districts": {
+      "Ardeşen": "IV",
+      "Çamlıhemşin": "IV",
+      "Çayeli": "IV",
+      "Fındıklı": "IV",
+      "İkizdere": "III",
+      "Pazar": "IV"
+    }
+  },
+  "SAMSUN": {
+    "region": "III",
+    "districts": {
+      "Aaçam": "III",
+      "Bafra": "III",
+      "Çarşamba": "III",
+      "Havza": "II",
+      "Kavak": "III",
+      "Ladik": "III",
+      "Terme": "III",
+      "Vezirköprü": "III"
+    }
+  },
+  "SİİRT": {
+    "region": "II",
+    "districts": {
+      "Batman": "II",
+      "Baykan": "II",
+      "Beşiri": "II",
+      "Eruh": "IV",
+      "Kozluk": "II",
+      "Kurtalan": "II",
+      "Pervari": "IV",
+      "Sason": "II",
+      "Şırnak": "IV",
+      "Şirvan": "II"
+    }
+  },
+  "SİNOP": {
+    "region": "III",
+    "districts": {
+      "Ayancık": "III",
+      "Boyabat": "III",
+      "Durağan": "III",
+      "Gerze": "III",
+      "Türkeli": "III"
+    }
+  },
+  "SİVAS": {
+    "region": "III",
+    "districts": {
+      "Divriği": "IV",
+      "Gemerek": "III",
+      "Gürün": "III",
+      "Hafik": "III",
+      "İmranlı": "III",
+      "Kangal": "IV",
+      "Koyulhisar": "III",
+      "Suşehri": "III",
+      "Şarkışla": "III",
+      "Yıldızeli": "III",
+      "Zara": "III"
+    }
+  },
+  "TEKİRDAĞ": {
+    "region": "II",
+    "districts": {
+      "Alpullu": "II",
+      "Çorlu": "II",
+      "Ganos": "II",
+      "Hayrabolu": "III",
+      "Malkara": "III",
+      "Muratlı": "II",
+      "Mürefte": "II",
+      "Saray": "II",
+      "Şarköy": "II"
+    }
+  },
+  "TOKAT": {
+    "region": "III",
+    "districts": {
+      "Almus": "III",
+      "Artova": "III",
+      "Erbaa": "III",
+      "Niksar": "III",
+      "Reşadiye": "III",
+      "Turhal": "III",
+      "Zile": "III"
+    }
+  },
+  "TRABZON": {
+    "region": "IV",
+    "districts": {
+      "Akçabat": "IV",
+      "Araklı": "IV",
+      "Arsin": "IV",
+      "Çaykara": "III",
+      "Maçka": "IV",
+      "Of": "IV",
+      "Sürmene": "IV",
+      "Tonya": "IV",
+      "Vakfıkebir": "IV",
+      "Yomra": "IV"
+    }
+  },
+  "TUNCELİ": {
+    "region": "IV",
+    "districts": {
+      "Çemişkezek": "IV",
+      "Hozat": "IV",
+      "Kalan": "IV",
+      "Malazgirt": "IV",
+      "Nazimiye": "IV",
+      "Ovacık": "IV",
+      "Pertek": "IV",
+      "Pülümür": "IV"
+    }
+  },
+  "ŞANLI URFA": {
+    "region": "I",
+    "districts": {
+      "Akçakale": "I",
+      "Birecik": "I",
+      "Bozova": "I",
+      "Ceylanpınar": "I",
+      "Hilvan": "II",
+      "Siverek": "II",
+      "Sürüç": "I",
+      "Viranşehir": "I"
+    }
+  },
+  "UŞAK": {
+    "region": "II",
+    "districts": {
+      "Banaz": "II",
+      "Eşme": "II",
+      "Karahallı": "II",
+      "Sivaslı": "II",
+      "Ulubey": "II"
+    }
+  },
+  "VAN": {
+    "region": "IV",
+    "districts": {
+      "Başkale": "IV",
+      "Çatak": "IV",
+      "Gevaş": "IV",
+      "Gürpınar": "IV",
+      "Muradiye": "II",
+      "Özalp": "II"
+    }
+  },
+  "YOZGAT": {
+    "region": "III",
+    "districts": {
+      "Akdağmadeni": "III",
+      "Boğazköy": "I",
+      "Boğazlıyan": "III",
+      "Çayıralan": "III",
+      "Çekerek": "III",
+      "Sarıkaya": "III",
+      "Sorgun": "III",
+      "Şefaatli": "III",
+      "Yerköy": "III"
+    }
+  },
+  "ZONGULDAK": {
+    "region": "III",
+    "districts": {
+      "Amasra": "III",
+      "Bartın": "III",
+      "Çaycuma": "III",
+      "Devrek": "III",
+      "Eflani": "IV",
+      "Ereğli": "III",
+      "Karabük": "III",
+      "Kilimli": "III",
+      "Kozlu": "III",
+      "Kurucaşile": "III",
+      "Safranbolu": "IV",
+      "Ulus": "III"
+    }
+  }
+}
