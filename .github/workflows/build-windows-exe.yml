@@ -23,7 +23,7 @@ jobs:
 
       - name: EXE oluştur
         run: |
-          pyinstaller --onefile --noconsole --add-data "regions.json;." --add-data "sk_table.json;." mbc_kar_yuku_v2.py
+          pyinstaller --onefile --noconsole --add-data "regions.json;." --add-data "sk_table.json;." --add-data "assets;assets" mbc_kar_yuku_v2.py
 
       - name: EXE yükle
         uses: actions/upload-artifact@v4
